@@ -63,7 +63,7 @@
   "devDependencies": {
     "nodeunit"              : "*",
     "haraka-test-fixtures"  : ">=1.0.17",
-    "eslint"                : ">=3",
+    "eslint"                : ">=4.18.0",
     "eslint-plugin-haraka"  : "*",
     "nodemailer"            : "*"
   },
