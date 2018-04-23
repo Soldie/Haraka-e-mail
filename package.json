@@ -38,7 +38,7 @@
     "openssl-wrapper"       : "^0.3.4"
   },
   "optionalDependencies": {
-    "haraka-plugin-access"  : "*",
+    "haraka-plugin-access"  : ">=1.1.0",
     "haraka-plugin-asn"     : "*",
     "haraka-plugin-auth-ldap": "*",
     "haraka-plugin-dcc"     : "*",
