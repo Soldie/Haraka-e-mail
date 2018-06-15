@@ -32,7 +32,7 @@
     "haraka-net-utils"      : ">=1.0.10",
     "haraka-notes"          : "*",
     "haraka-results"        : "^2.0.0",
-    "haraka-tld"            : "*",
+    "haraka-tld"            : ">=1.0.20",
     "haraka-utils"          : "*",
     "mkdirp"                : "~0.5.1",
     "openssl-wrapper"       : "^0.3.4"
